@@ -18,8 +18,12 @@ security best practices such as length, character diversity, and symbols.
 The program analyzes user input using pattern matching and
 returns both the strength level and improvement suggestions.
 
+## Learning Outcome
+- Learned how password policies work in real systems
+- Understood regex-based input validation
+- Improved secure coding practices
+
 ## How to Run
 ```bash
 checker.py
-
 
