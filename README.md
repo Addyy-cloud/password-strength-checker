@@ -20,9 +20,6 @@ returns both the strength level and improvement suggestions.
 
 ## How to Run
 ```bash
-Input: Sql123
-Password Strength: Medium
-Suggestions:
-- Password must be at least 8 characters long.
-- Add at least one special character.
+checker.py
+
 
